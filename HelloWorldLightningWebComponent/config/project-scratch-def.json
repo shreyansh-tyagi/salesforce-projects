@@ -1,5 +1,5 @@
 {
-  "orgName": "Demo company",
+  "orgName": "vscodeOrg",
   "edition": "Developer",
   "features": ["EnableSetPasswordInApi"],
   "settings": {
